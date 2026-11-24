@@ -1,0 +1,193 @@
+{
+  "fps": 30,
+  "total_frames": 2300,
+  "duration_s": 76.66666666666667,
+  "shots": [
+    {
+      "id": 1,
+      "a": 0,
+      "b": 194,
+      "light": "day",
+      "set": "bahay_plaza",
+      "xfade": 0
+    },
+    {
+      "id": 2,
+      "a": 194,
+      "b": 366,
+      "light": "golden",
+      "set": "pre_1521_coast",
+      "xfade": 0
+    },
+    {
+      "id": 3,
+      "a": 366,
+      "b": 588,
+      "light": "interior",
+      "set": "palayok_hearth",
+      "xfade": 8
+    },
+    {
+      "id": 4,
+      "a": 588,
+      "b": 754,
+      "light": "day",
+      "set": "white_adobo_table",
+      "xfade": 8
+    },
+    {
+      "id": 5,
+      "a": 754,
+      "b": 1106,
+      "light": "golden",
+      "set": "spanish_convento",
+      "xfade": 8
+    },
+    {
+      "id": 6,
+      "a": 1106,
+      "b": 1295,
+      "light": "day",
+      "set": "trade_harbor",
+      "xfade": 8
+    },
+    {
+      "id": 7,
+      "a": 1295,
+      "b": 1419,
+      "light": "interior",
+      "set": "palayok_hearth",
+      "xfade": 6
+    },
+    {
+      "id": 8,
+      "a": 1419,
+      "b": 1552,
+      "light": "dusk",
+      "set": "lost_name_archive",
+      "xfade": 0
+    },
+    {
+      "id": 9,
+      "a": 1552,
+      "b": 1715,
+      "light": "storm",
+      "set": "vinegar_science",
+      "xfade": 6
+    },
+    {
+      "id": 10,
+      "a": 1715,
+      "b": 1876,
+      "light": "day",
+      "set": "kitchen_fridge",
+      "xfade": 8
+    },
+    {
+      "id": 11,
+      "a": 1876,
+      "b": 2053,
+      "light": "day",
+      "set": "regional_feast",
+      "xfade": 8
+    },
+    {
+      "id": 12,
+      "a": 2053,
+      "b": 2300,
+      "light": "golden",
+      "set": "pinoy_kitchen",
+      "xfade": 10
+    }
+  ],
+  "flashes": [
+    {
+      "f": 191,
+      "dur": 5
+    }
+  ],
+  "kicks": [
+    [
+      46,
+      0.14
+    ],
+    [
+      294,
+      0.18
+    ],
+    [
+      527,
+      0.14
+    ],
+    [
+      593,
+      0.15
+    ],
+    [
+      833,
+      0.16
+    ],
+    [
+      1189,
+      0.15
+    ],
+    [
+      1417,
+      0.16
+    ],
+    [
+      1643,
+      0.19
+    ],
+    [
+      1814,
+      0.15
+    ],
+    [
+      1967,
+      0.14
+    ],
+    [
+      2261,
+      0.15
+    ]
+  ],
+  "events": {
+    "F_1521": 206,
+    "F_1613": 761,
+    "F_ADOBAR": 1055,
+    "F_ADOBONG_MANOK": 46,
+    "F_ADOBO_NAT": 952,
+    "F_ARAW": 695,
+    "F_ASIDO": 1584,
+    "F_ASIN": 574,
+    "F_BAKTERYA": 1643,
+    "F_BAWANG": 548,
+    "F_ESPANYOL": 167,
+    "F_FRIDGE": 1721,
+    "F_IMBENTOR": 2084,
+    "F_KUSINA": 2171,
+    "F_MABUTI": 1293,
+    "F_MAINIT": 326,
+    "F_MAITIM": 1229,
+    "F_MAPANIS": 390,
+    "F_MASAMA": 1417,
+    "F_NAKALIMUTAN": 1465,
+    "F_NANAY": 2261,
+    "F_NATIKMAN": 833,
+    "F_NO_REF": 294,
+    "F_PALAYOK": 490,
+    "F_PANANGGA": 1814,
+    "F_PILIPINO": 115,
+    "F_PINAPALAMBOT": 1670,
+    "F_PUTI": 610,
+    "F_REG_DILAW": 2010,
+    "F_REG_GATA": 1967,
+    "F_REG_PUTI": 1949,
+    "F_SUKA": 527,
+    "F_TOYO": 1189,
+    "F_TSINO": 1174,
+    "F_WALANG_TOYO": 593,
+    "F_YELO": 1777
+  }
+}
